@@ -18,11 +18,15 @@ main{
 display:flex;
 justify-content: center;
 align-items: center;
+
 }
 
 section{
 display: flex;
-
+border-color: black;
+border-width: 3px;
+border-style: solid;
+margin-right: 4px;
 }
 
 .S1{
@@ -34,6 +38,7 @@ display: flex;
     background-color:rgb(21, 190, 190);
     height: 400px;  
     width: 300px;
+    
 }
 
 .S3{
@@ -41,7 +46,6 @@ display: flex;
     height: 400px;
     width: 300px;
 }
-
 
 footer {
     padding: 8px;
