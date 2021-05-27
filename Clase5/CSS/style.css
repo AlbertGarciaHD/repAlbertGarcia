@@ -1,0 +1,50 @@
+ul, li{
+    padding: 0;
+    text-align: center;
+    list-style: none;
+    
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav > ul > li {
+    width: 300px;
+}
+
+main{
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+section{
+display: flex;
+
+}
+
+.S1{
+    background-color:rgb(0, 17, 255);  
+    height: 800px;
+    width: 300px;
+}
+.S2{
+    background-color:rgb(21, 190, 190);
+    height: 400px;  
+    width: 300px;
+}
+
+.S3{
+    background-color: rgb(0, 255, 13);
+    height: 400px;
+    width: 300px;
+}
+
+
+footer {
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
