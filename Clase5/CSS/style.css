@@ -27,6 +27,8 @@ border-color: black;
 border-width: 3px;
 border-style: solid;
 margin-right: 4px;
+align-items: center;
+margin-top: 3px;
 }
 
 .S1{
@@ -36,14 +38,14 @@ margin-right: 4px;
 }
 .S2{
     background-color:rgb(21, 190, 190);
-    height: 400px;  
+    height: 395px;  
     width: 300px;
     
 }
 
 .S3{
     background-color: rgb(0, 255, 13);
-    height: 400px;
+    height: 395px;
     width: 300px;
 }
 
