@@ -1,0 +1,80 @@
+/*Fuente*/
+html {
+    font-size: 12px;
+}
+
+/* Estructura */
+div {
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+}
+
+
+/*Contenido*/
+.flex {
+    display: flex;
+}
+
+/*Foto del curriculum*/
+.foto {
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%; 
+    display: block;
+    margin: 0 auto;
+
+}
+.contenido {
+    background-color: #FEFEFA;
+}
+
+.nombre-curric{
+    text-align:center;
+    text-transform:uppercase;
+}
+
+.informa-personal{
+    width: 40%;
+    padding: 2rem 2rem;
+    background-color: #12121496;
+    text-align:justify;
+    line-height: 1.5;
+    color:white;
+
+}
+
+.direccion-colum{
+     margin-left: auto;
+     margin-right: auto;
+
+
+}
+
+.informa-laboral{
+    width: 60%;
+    padding: 2rem 4rem;
+}
+
+.fondo-texto-info-laboral{
+    background-color: wheat;
+}
+.mayuscula{
+    text-transform:uppercase;
+    padding: 4px 4px;
+    text-align:center;
+}
+
+.texto-info-laboral{
+    font-size: 14px;
+    margin: 0;
+    text-align:left;
+
+}
+
+p{
+    margin: 0;
+    text-align:left;
+}
