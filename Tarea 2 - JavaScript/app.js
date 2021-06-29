@@ -15,7 +15,6 @@ const accion = () => {
     document.getElementById("contenedor").innerHTML=infor.value;
     document.getElementById("contenedor").style.backgroundColor = colores.value;
 
-    whi
 }
 
 
